@@ -1,0 +1,7 @@
+{
+  "devops engineer": ["docker", "kubernetes", "ci/cd", "linux", "aws"],
+  "backend engineer": ["python", "fastapi", "postgresql", "docker", "rest"],
+  "data scientist": ["python", "sql", "pandas", "numpy", "machine learning"],
+  "frontend engineer": ["javascript", "typescript", "react", "rest", "git"],
+  "full stack engineer": ["python", "javascript", "react", "postgresql", "docker"]
+}
